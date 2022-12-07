@@ -1,4 +1,3 @@
-BRANCHES:
 CREATE BRANCH: 	git branch <name>
 			git push -u origin <name>
 
